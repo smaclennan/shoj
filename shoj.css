@@ -3,6 +3,7 @@ body {
   margin: 1em 8% 0 8%;
   /* ie9 defaults to small */
   font-size: medium;
+  font-family: "Comic Sans MS", "Comic Sans", comicsansms, comicsans;
 }
 
 p.main, th, td {
