@@ -25,3 +25,19 @@ p.huge {
 }
 
 p.small { font-size: small }
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.images {
+  float: left;
+  width: 140px;
+}
+
+.text {
+  float: left;
+  width: 70%;
+}
